@@ -59,3 +59,23 @@
 2025-06-23 21:41:32.804 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
 2025-06-23 21:41:32.812 [main] INFO  helper.LoggerHelper - Search Result Count After Selecting Manual Transmission : 1
 2025-06-23 21:41:32.832 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 21:47:44.162 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 2
+2025-06-23 21:47:44.172 [main] INFO  helper.LoggerHelper - Search Result Count : 2
+2025-06-23 21:47:45.480 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 21:47:45.499 [main] INFO  helper.LoggerHelper - Search Result Count After Selecting Manual Transmission : 1
+2025-06-23 21:47:45.524 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 21:48:51.302 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 2
+2025-06-23 21:48:51.312 [main] INFO  helper.LoggerHelper - Search Result Count : 2
+2025-06-23 21:48:52.365 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 21:48:52.377 [main] INFO  helper.LoggerHelper - Search Result Count After Selecting Manual Transmission : 1
+2025-06-23 21:48:52.414 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 21:50:08.194 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 2
+2025-06-23 21:50:08.206 [main] INFO  helper.LoggerHelper - Search Result Count : 2
+2025-06-23 21:50:09.533 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 21:50:09.550 [main] INFO  helper.LoggerHelper - Search Result Count After Selecting Manual Transmission : 1
+2025-06-23 21:50:09.573 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 22:08:33.418 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 2
+2025-06-23 22:08:33.428 [main] INFO  helper.LoggerHelper - Search Result Count : 2
+2025-06-23 22:08:34.797 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
+2025-06-23 22:08:34.810 [main] INFO  helper.LoggerHelper - Search Result Count After Selecting Manual Transmission : 1
+2025-06-23 22:08:34.851 [main] INFO  helper.LoggerHelper - getTextFromField By.xpath: //*[@id="mainContent"]/div[2]/div/div[1]/div[1]/div[1]/h1/span[1] : 1
