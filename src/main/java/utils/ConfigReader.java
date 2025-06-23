@@ -11,12 +11,12 @@ public class ConfigReader {
 
     static {
         try {
-            String configPath = System.getProperty("user.dir") + "/config.json";
+            String configPath = System.getProperty("user.dir") + "/data.json";
             ObjectMapper objectMapper = new ObjectMapper();
             config = objectMapper.readTree(new File(configPath));
         } catch (IOException e) {
             e.printStackTrace();
-            throw new RuntimeException("Failed to load config.json file: " + e.getMessage());
+            throw new RuntimeException("Failed to load data.json file: " + e.getMessage());
         }
     }
 
